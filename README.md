@@ -1,13 +1,12 @@
 # CodexPet
 
-Codex用のカスタムPetパッケージです。
+Codex 用カスタム Pet の一覧です。
 
-## 内容
+## Pet 一覧
 
-- `kamonegi/` — かもねぎ君（ID: `kamonegi`、v2）
-- `Wandy/` — Wandy（ID: `wandy`、v2）
-- `*-codex-pet-v2.zip` — 配布用のZIP
-- `*-contact-sheet.png` — 全動作の確認画像
-- `*-look-directions.png` — 16方向の視線確認画像
+| Pet | 説明 | インストール |
+| --- | --- | --- |
+| [ワンダー君（Wandy）](Wandy/README.md) | Wonder Tech Hub のAI学習サポーター | [Wandy のページへ](Wandy/README.md) |
+| かもねぎ君 | トレーダー・ポーカープレイヤーの学習ペット | 準備中 |
 
-各Petフォルダーには、Codexへ登録するための `pet.json` と `spritesheet.webp` が入っています。
+各Petのフォルダには、Codexへ登録する `pet.json` と `spritesheet.webp` が入っています。
