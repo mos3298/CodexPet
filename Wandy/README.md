@@ -2,6 +2,8 @@
 
 Wonder Tech Hub の AI学習サポーター、ワンダー君の Codex Pet です。
 
+公式X: [@WonderTechHub](https://x.com/WonderTechHub)
+
 ## インストール方法（Windows）
 
 1. このフォルダ内の `wandy-codex-pet-v2.zip` をダウンロードします。
