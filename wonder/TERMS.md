@@ -2,7 +2,8 @@
 
 ## 権利と公開について
 
-wonderくんのキャラクターおよび関連アセットに関する権利は、Wonder Tech Hub に帰属します。
+wonderくんのキャラクターに関する権利は、Wonder Tech Hub に帰属します。
+本Codex Pet用アセットは、mos3298 により制作されています。
 本パッケージは、Wonder Tech Hub の許可のもと公開されています。
 
 ## 許可される利用
