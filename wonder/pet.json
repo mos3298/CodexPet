@@ -1,7 +1,7 @@
 {
-  "id": "wandy",
-  "displayName": "Wandy",
-  "description": "Wonder Tech Hub AI learning supporter Wandy.",
-  "spritesheetPath": "spritesheet.webp",
+  "id": "wonder",
+  "displayName": "wonderくん",
+  "description": "Wonder Tech Hub AI learning supporter wonderくん.",
+  "spritesheetPath": "spritesheet.png",
   "spriteVersionNumber": 2
 }
